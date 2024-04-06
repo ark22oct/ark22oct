@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [a19khan@torontomu.ca](mailto:a19khan@torontomu.ca)
+* 🌍  Based in Toronto
+* ✉️  Contact me at [a19khan@torontomu.ca](mailto:a19khan@torontomu.ca)
 * 🪡  Continuously perfecting my craft
 
 ### Skills
