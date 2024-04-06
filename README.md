@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Toronto, Canada
+* 🌍  I'm based in Toronto
 * ✉️  You can contact me at [ark22oct@gmail.com](mailto:ark22oct@gmail.com)
 * ⚡  Continuously perfecting my craft 🪡
 
