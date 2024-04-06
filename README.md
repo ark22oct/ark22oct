@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Toronto
-* ✉️  You can contact me at [ark22oct@gmail.com](mailto:ark22oct@gmail.com)
+* ✉️  You can contact me at [ark22oct@gmail.com](mailto:a19khan@torontomu.ca)
 * ⚡  Continuously perfecting my craft 🪡
 
 ### Skills
