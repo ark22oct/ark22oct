@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  Based in Toronto
 * ✉️  Contact me at [a19khan@torontomu.ca](mailto:a19khan@torontomu.ca)
-* 🪡  Continuously perfecting my craft
+* 🪡  Continuously perfecting my craft in the pursuit of excellence
 
 ### Skills
 
