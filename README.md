@@ -5,7 +5,7 @@ New Grad - Software Engineer
 -----------------
 
 * 🌍  Based in Toronto
-* ✉️  Contact me at [https://www.linkedin.com/in/abdulrehman-khan-96a79b1b3/](mailto:a19khan@torontomu.ca)
+* ✉️  Contact me at [https://www.linkedin.com/in/abdulrehman-khan-96a79b1b3/](https://www.linkedin.com/in/abdulrehman-khan-96a79b1b3/)
 * 🪡  Continuously perfecting my craft in pursuit of excellence
 
 ### Skills
