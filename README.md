@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrehman Khan 🏌🏼
 =============================================================================================================================================
 
-Software Engineer
+New Grad - Software Engineer
 -----------------
 
 * 🌍  Based in Toronto
-* ✉️  Contact me at [a19khan@torontomu.ca](mailto:a19khan@torontomu.ca)
+* ✉️  Contact me at [https://www.linkedin.com/in/abdulrehman-khan-96a79b1b3/](mailto:a19khan@torontomu.ca)
 * 🪡  Continuously perfecting my craft in pursuit of excellence
 
 ### Skills
