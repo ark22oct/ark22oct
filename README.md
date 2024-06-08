@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍   Based in Toronto
 * 🖥   Explore my Digital Portfolio: [Abdulrehman Khan - Digital Portfolio](https://main--abdulrehmank.netlify.app/)
-* ✉️   Connect with me at [Linkedin](https://www.linkedin.com/in/abdulrehman-khan-96a79b1b3/)
+* ✉️   Connect with me on [Linkedin](https://www.linkedin.com/in/abdulrehman-khan-96a79b1b3/)
 * ✉️   Contact me at [a19khan@torontomu.ca](mailto:a19khan@torontomu.ca)
 * 🪡   Continuously perfecting my craft in pursuit of excellence
 
